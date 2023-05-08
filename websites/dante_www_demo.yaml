@@ -1,0 +1,12 @@
+id: QmSUWGsrWrh71DppskgCtP5UG8UP97VKuWS93KfWDNW5Jo
+description: ""
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: 637923519
+        fullname: taubyte0/tb_website_dante_www_demo
